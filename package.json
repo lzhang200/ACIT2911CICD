@@ -1,0 +1,9 @@
+{
+"name": "acit2911",
+"version": "1.0.0",
+"description": "travis-cicd",
+"main": "index.js",
+"author": "Johnny",
+"license": "ISC"
+
+}
